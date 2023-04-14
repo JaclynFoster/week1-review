@@ -196,7 +196,7 @@ for (let i = 0; i < colors.length; i++) {
 /* 
     Discuss:
     - Definition of:
-        -- git- DevOps tool used for source code management
+        -- git- DevOps tool used for source code management/Version control software
         -- github- way to store your code in the cloud
         -- git init- initializes github repo
         -- git clone -Copy a repo from GitHub and put it on my machine
